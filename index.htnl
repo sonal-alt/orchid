@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>orchid original</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- nav -->
+
+    </div>
+
+    <!-- header -->
+    <header class="banner">
+      <div class="banner__contents">
+        <h1 class="banner__title">Sherni </h1>
+        <div class="banner__buttons">
+          <button class="banner__button">A-Z Movies</button>
+         
+        <h1 class="banner__description">
+  Nature and man fight against a forest officer as she and her team of locals and trackers attempt to capture a disturbed tigress.        
+        </h1>
+      </div>
+      <div class="banner--fadeBottom"></div>
+    </header>
+
+    <!-- Netflix Originals -->
+    <div class="row">
+      <h2>Best movie 2021</h2>
+      <div class="row__posters">
+     <a href="
+  https://drive.google.com/file/d/1aT-j7Q-2aIygZbvM7DBWFOMavDUkkXcP/view
+     ">
+    
+         
+              <img class=" row__posterLarge"  
+
+src="large-movie1.jpg" width="auto" >
+
+    
+      
+</a>
+<a href="https://drive.google.com/file/d/1r4PVrVA8CuoyvmynDOUYeg_5qAASUKtT/view?usp=drivesdk">
+  
+
+        <img class="row__posterLarge" src="large-movie2.jpg" alt="" />
+
+        
+  
+</a>
+
+      <a href="
+      https://drive.google.com/file/d/1M7xsC_i345mtlHXJqsdo0dpnXbYzxdfC/view?usp=drivesdk
+      " >
+         <img class=" row__posterLarge" src="large-movie3.jpg" alt="" />
+
+        
+      </a>
+   <a href="
+ https://drive.google.com/file/d/1pa9XLvrsg8ekt0sHJiBFbjvCyPRMw8ek/view?usp=drivesdk  
+   " >
+        <img class=" row__posterLarge" src="large-movie4.jpg" alt="" />
+   </a> 
+       
+       <a href="
+https://drive.google.com/file/d/14o29Qhmb2Rl226QDY-zDB_rQYh7_QWLq/view?usp=drivesdk
+">
+          <img class=" row__posterLarge" src="large-movie5.jpg" alt="" />
+         
+       </a>
+       
+<a href="
+https://drive.google.com/file/d/140LnXAc-AdtXjCZ8EMowFHFZX4jdR_Tm/view?usp=drivesdk
+">
+  
+       <img class=" row__posterLarge" src="large-movie6.jpg" alt="" /> 
+  
+</a>
+  
+
+    <a href="
+    https://drive.google.com/file/d/17hLTXHFpwIUSRU37CZJKYihOSQZGbmqS/view?usp=drivesdk
+    " >
+      
+  <img class="row__poster row__posterLarge" src="large-movie7.jpg" alt="" />
+    
+      
+    </a>   
+        <a href="
+        https://drive.google.com/file/d/1JDIISADKnU4JCJebtw-DFfpY6BpCUmfb/view?usp=drivesdk
+        ">
+          <img class=" row__posterLarge" src="large-movie8.jpg" alt="" />
+          
+        </a>
+      </div>
+    </div>
+
+    <!-- Trending Now -->
+    <div class="row">
+      <h2>Trending Now</h2>
+      <div class="row__posters">
+        <a href="
+         https://drive.google.com/file/d/1aT-j7Q-2aIygZbvM7DBWFOMavDUkkXcP/view
+        ">
+              <img src="large-movie1.jpg" alt="" width="203px" height="120px" />
+
+        </a>
+    <a href="
+    https://drive.google.com/file/d/1LMl984QmgfQFv2sP-8FoqQjbf-UAXF_R/view?usp=drivesdk
+    ">
+           <img src="small-movie2.jpg" alt="" width="203px" height="120px"/>
+
+      
+    </a>
+   
+   <a href="
+   https://drive.google.com/file/d/17hLTXHFpwIUSRU37CZJKYihOSQZGbmqS/view?usp=drivesdk
+   ">
+          <img  src="small-movie3.jpg" alt="" 
+          width="203px" height="120px"
+          />
+     
+   </a>
+   
+<a href="
+https://drive.google.com/file/d/1MEnYUug_QyL-Jgtsw9UgdyAjAH5N9uSp/view?usp=drivesdk
+">
+  
+     <img  src="small-movie4.jpg" alt="" width="203px" height="120px"/>
+
+</a>
+     
+        <img class="row__poster" src="small-movie5.jpg" alt="" 
+        width="203px" height="120px"
+        />
+
+        <img class="row__poster" src="small-movie6.jpg" alt=""
+        width="203px" height="120px"
+        />
+
+        <img class="row__poster" src="small-movie7.jpg" alt="" 
+        width="203px" height="120px"
+        />
+
+        <img class="row__poster" src="small-movie8.jpg" alt=""
+        width="203px" height="120px"
+        />
+      </div>
+    </div>
+
+    <!-- Top Rated -->
+    <div class="row">
+      <h2>Top Rated</h2>
+      <div class="row__posters">
+        <img class="row__poster" src="small-movie1.jpg" alt="" />
+
+        <img class="row__poster" src="small-movie2.jpg" alt="" />
+
+        <img class="row__poster" src="small-movie3.jpg" alt="" />
+
+        <img class="row__poster" src="small-movie4.jpg" alt="" />
+
+        <img class="row__poster" src="small-movie5.jpg" alt="" />
+
+        <img class="row__poster" src="small-movie6.jpg" alt="" />
+
+        <img class="row__poster" src="small-movie7.jpg" alt="" />
+
+        <img class="row__poster" src="small-movie8.jpg" alt="" />
+      </div>
+    </div>
+
+    <!-- Action Movies -->
+    <div class="row">
+      <h2>Action Movies</h2>
+      <div class="row__posters">
+        <img class="row__poster" src="small-movie1.jpg" alt="" />
+
+        <img class="row__poster" src="/
+        small-movie2.jpg" alt="" />
+
+        <img class="row__poster" src="/
+        small-movie3.jpg" alt="" />
+
+        <img class="row__poster" src="small-movie4.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie5.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie6.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie7.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie8.jpg" alt="" />
+      </div>
+    </div>
+
+    <!-- Comedy Movies -->
+    <div class="row">
+      <h2>Comedy Movies</h2>
+      <div class="row__posters">
+        <img class="row__poster" src="small-movie1.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie2.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie3.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie4.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie5.jpg" alt="" />
+
+        <img class="row__poster" src="small-movie6.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie7.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie8.jpg" alt="" />
+      </div>
+    </div>
+
+    <!-- Horror Movies -->
+    <div class="row">
+      <h2>Horror Movies</h2>
+      <div class="row__posters">
+        <img class="row__poster" src="/small-movie1.jpg" alt="" />
+
+        <img class="row__poster" src="small-movie2.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie3.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie4.jpg" alt="" />
+
+        <img class="row__poster" src="small-movie5.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie6.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie7.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie8.jpg" alt="" />
+      </div>
+    </div>
+
+    <!-- Romance Movies -->
+    <div class="row">
+      <h2>Romance Movies</h2>
+      <div class="row__posters">
+        <img class="row__poster" src="/small-movie1.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie2.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie3.jpg" alt="" />
+
+        <img class="row__poster" src="small-movie4.jpg" alt="" />
+
+        <img class="row__poster" src="small-movie5.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie6.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie7.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie8.jpg" alt="" />
+      </div>
+    </div>
+
+    <!-- Documentaries -->
+    <div class="row">
+      <h2>Documentaries</h2>
+      <div class="row__posters">
+        <img class="row__poster" src="/small-movie1.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie2.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie3.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie4.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie5.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie6.jpg" alt="" />
+
+        <img class="row__poster" src="/small-movie7.jpg" alt="" />
+
+        <img class="row__poster" src="small-movie8.jpg" alt="" />
+      </div>
+    </div>
+
+    <script>
+      const nav = document.getElementById('nav');
+      window.addEventListener('scroll', () => {
+        if (window.scrollY >= 100) {
+          nav.classList.add('nav__black');
+        } else {
+          nav.classList.remove('nav__black');
+        }
+      });
+    </script>
+  </body>
+</html>
